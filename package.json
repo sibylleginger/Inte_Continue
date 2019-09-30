@@ -1,0 +1,20 @@
+{
+  "name": "Inte_Continue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sibylleginger/Inte_Continue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sibylleginger/Inte_Continue/issues"
+  },
+  "homepage": "https://github.com/sibylleginger/Inte_Continue#readme"
+}
